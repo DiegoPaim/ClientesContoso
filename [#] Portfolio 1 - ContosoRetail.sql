@@ -31,10 +31,6 @@ select
 	UpdateDate
 from dimcustomer
 
-select
-	*
-from factsales
-
 
 
 --total de clientes cadastrados--
